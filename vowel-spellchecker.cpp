@@ -1,4 +1,12 @@
-// https://leetcode.com/problems/vowel-spellchecker/
+
+/**
+ * problem: https://leetcode.com/problems/vowel-spellchecker/
+ * result: 
+ *   Runtime: 496 ms, faster than 5.04% of C++ online submissions for Vowel Spellchecker.
+ *   Memory Usage: 34.5 MB, less than 61.76% of C++ online submissions for Vowel Spellchecker.
+ * used_time: 20min
+ */
+
 class Solution {
 public:
     vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
